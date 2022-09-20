@@ -12,19 +12,12 @@
     "build": "webpack --mode production",
     "test:e2e": "npx cypress run"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/smartlyio/fullstackopen-cicd.git"
-  },
   "keywords": [
     "fullstack-open"
   ],
   "author": "Smartly.io",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/smartlyio/fullstackopen-cicd/issues"
-  },
-  "homepage": "https://github.com/smartlyio/fullstackopen-cicd#readme",
+
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/plugin-transform-runtime": "^7.10.0",
